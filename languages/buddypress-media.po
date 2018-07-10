@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: rtMedia for WordPress, BuddyPress and bbPress 4.5.1\n"
 "Report-Msgid-Bugs-To: http://community.rtcamp.com/c/rtmedia/\n"
-"POT-Creation-Date: 2018-07-06 08:38:19+00:00\n"
+"POT-Creation-Date: 2018-07-10 09:58:45+00:00\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -3022,18 +3022,18 @@ msgstr ""
 msgid "Invalid attribute passed for rtmedia_gallery shortcode."
 msgstr ""
 
-#: app/main/controllers/template/RTMediaTemplate.php:392
-#: app/main/controllers/template/RTMediaTemplate.php:485
-#: app/main/controllers/template/RTMediaTemplate.php:583
-#: app/main/controllers/template/RTMediaTemplate.php:784
+#: app/main/controllers/template/RTMediaTemplate.php:396
+#: app/main/controllers/template/RTMediaTemplate.php:489
+#: app/main/controllers/template/RTMediaTemplate.php:587
+#: app/main/controllers/template/RTMediaTemplate.php:788
 msgid "Ooops !!! Invalid access. No nonce was found !!"
 msgstr ""
 
-#: app/main/controllers/template/RTMediaTemplate.php:399
+#: app/main/controllers/template/RTMediaTemplate.php:403
 msgid "Media updated Sucessfully"
 msgstr ""
 
-#: app/main/controllers/template/RTMediaTemplate.php:405
+#: app/main/controllers/template/RTMediaTemplate.php:409
 msgid "Error in updating Media"
 msgstr ""
 
@@ -3135,7 +3135,11 @@ msgstr ""
 msgid "rtMedia Updates"
 msgstr ""
 
-#: app/main/controllers/template/rtmedia-actions.php:1089
+#: app/main/controllers/template/rtmedia-actions.php:903
+msgid "Search Media"
+msgstr ""
+
+#: app/main/controllers/template/rtmedia-actions.php:1090
 msgid "Please swipe for more media."
 msgstr ""
 
@@ -3156,39 +3160,39 @@ msgstr ""
 msgid "Delete Album"
 msgstr ""
 
-#: app/main/controllers/template/rtmedia-filters.php:865
+#: app/main/controllers/template/rtmedia-filters.php:874
 #: app/main/controllers/template/rtmedia-functions.php:4373
 msgid "rtMedia Shortcode Uploads"
 msgstr ""
 
-#: app/main/controllers/template/rtmedia-filters.php:869
+#: app/main/controllers/template/rtmedia-filters.php:878
 #: app/main/controllers/template/rtmedia-functions.php:4253
 msgid "rtMedia Activities"
 msgstr ""
 
-#: app/main/controllers/template/rtmedia-filters.php:873
+#: app/main/controllers/template/rtmedia-filters.php:882
 msgid "rtMedia Comments"
 msgstr ""
 
-#: app/main/controllers/template/rtmedia-filters.php:877
+#: app/main/controllers/template/rtmedia-filters.php:886
 #: app/main/controllers/template/rtmedia-functions.php:4601
 msgid "rtMedia Media Views"
 msgstr ""
 
-#: app/main/controllers/template/rtmedia-filters.php:881
+#: app/main/controllers/template/rtmedia-filters.php:890
 #: app/main/controllers/template/rtmedia-functions.php:4702
 msgid "rtMedia Media Likes"
 msgstr ""
 
-#: app/main/controllers/template/rtmedia-filters.php:902
+#: app/main/controllers/template/rtmedia-filters.php:911
 msgid "rtMedia Eraser"
 msgstr ""
 
-#: app/main/controllers/template/rtmedia-filters.php:906
+#: app/main/controllers/template/rtmedia-filters.php:915
 msgid "rtMedia Likes Eraser"
 msgstr ""
 
-#: app/main/controllers/template/rtmedia-filters.php:910
+#: app/main/controllers/template/rtmedia-filters.php:919
 msgid "rtMedia Album Eraser"
 msgstr ""
 
